@@ -116,7 +116,7 @@ monitoring the shape of the VI trajectory. Shape features such as area under the
 
 
 
-Made with ❤️ by [Goutham]
+
 
 ## References
 1. [ACS712 Datasheet](https://www.sparkfun.com/datasheets/BreakoutBoards/0712.pdf)
